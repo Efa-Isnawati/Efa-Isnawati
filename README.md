@@ -64,7 +64,8 @@
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1150px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40" />
   </a>
-  <a href="https://www.canva.com" target="_blank" rel="noreferrer">
-    <img src="https://about.canva.com/wp-content/uploads/sites/3/2016/08/Canva-logotype-black.png" alt="Canva" width="40" height="40" />
-  </a>
+ <a href="https://www.canva.com" target="_blank" rel="noreferrer">
+    <img src="https://about.canva.com/wp-content/uploads/sites/3/2016/08/Canva-logotype-black.png" alt="Canva" width="40" height="40" style="vertical-align: text-bottom;" />
+</a>
+
 </p>
