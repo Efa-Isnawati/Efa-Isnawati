@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Efa Isnawati</h1>
-<h3 align="center"> A passionate frontend developer from Indonesia!!</h3>
+<h3 align="center"> A passionate fullstack web developer from Indonesia!!</h3>
 
 - 👨‍💻 You can also check out my portfolio at [https://efa-portofolio.vercel.app/](https://efa-portofolio.vercel.app/)
 
