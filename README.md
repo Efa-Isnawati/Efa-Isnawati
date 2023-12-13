@@ -65,7 +65,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1150px-Adobe_Photoshop_CC_icon.svg.png" alt="Adobe Photoshop" width="40" height="40" />
   </a>
  <a href="https://www.canva.com" target="_blank" rel="noreferrer">
-    <img src="https://about.canva.com/wp-content/uploads/sites/3/2016/08/Canva-logotype-black.png" alt="Canva" width="40" height="40" style="vertical-align: text-bottom;" />
+    <img src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" alt="Canva" width="40" height="40" style="vertical-align: text-bottom;" />
 </a>
 
 </p>
