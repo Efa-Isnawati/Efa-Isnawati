@@ -71,7 +71,7 @@
 </p>
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efa-Isnawati" /> -->
 <a href="https://github.com/Efa-Isnawati/Efa-Isnawati">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efa-Isnawati&hide=php,c,vim%20script,objective-c,actionscript,roff,html,javascript,css,scss,java,&langs_count=3&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efa-Isnawati&theme=nord" />
 </a>
 <a href="https://github.com/Efa-Isnawati/Efa-Isnawati">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Efa-Isnawati&show_icons=true&line_height=27&count_private=true&theme=nord" alt="Anastasios's GitHub Stats" />
