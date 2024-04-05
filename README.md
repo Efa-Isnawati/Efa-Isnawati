@@ -69,4 +69,3 @@
 </a>
 
 </p>
-![](https://komarev.com/ghpvc/?username=Efa-Isnawati&color=blue&style=for-the-badge&label=VISITOR)
