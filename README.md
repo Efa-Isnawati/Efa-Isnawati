@@ -69,3 +69,6 @@
 </a>
 
 </p>
+<a href="https://github.com/Efa-Isnawati/Efa-Isnawati">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efa-Isnawati&hide=php,c,vim script,objective-c,actionscript,roff,html,javascript,css,java,&langs_count=3&theme=nord" />
+</a>
