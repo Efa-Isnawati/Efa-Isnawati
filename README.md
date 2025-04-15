@@ -21,8 +21,6 @@
     <img src="https://komarev.com/ghpvc/?username=Efa-Isnawati&style=for-the-badge">
 </a>
 
-[Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/Efa-Isnawati/github-profile-views-counter
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
