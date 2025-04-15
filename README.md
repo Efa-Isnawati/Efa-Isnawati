@@ -16,6 +16,13 @@
 <a href="https://www.youtube.com/channel/efaisnawatichannel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="efa" height="30" width="40" /></a>
 
 </p>
+<h3 align="left">Visitor:</h3>
+<a href="https://github.com/Efa-Isnawati/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Efa-Isnawati&style=for-the-badge">
+</a>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/Efa-Isnawati/github-profile-views-counter
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
